@@ -1,3 +1,3 @@
 # my portfolio
 
-## [Pull Requests Gallery](./pr-gallery)
+## [Pull Requests Gallery](./pr-gallery.md)
