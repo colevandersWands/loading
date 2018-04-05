@@ -13,6 +13,7 @@ ___
 
 ## About Me
 
+I'm an avid student of life.  Starting now, I'm also an avid student of software development.
 
 [TOP](#my-stellar-portfolio)
 
