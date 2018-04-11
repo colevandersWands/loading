@@ -22,16 +22,8 @@ ___
 ## Projects
 
 Check out my projects:
-* My Portfolio:  [Code](https://github.com/elewa-student/elewa-student.github.io) , [Demo](https://elewa-student.github.io)
-* Tic Tac Toe: [Code](https://github.com/elewa-student/tic-tac-toe/tree/master), [Demo](https://elewa-student.github.io/tic-tac-toe/)
-* JS 30 Gallery: [Code](https://github.com/colevandersWands/colevanderswands.github.io/blob/master/js-30-gallery.md), [Demo](https://colevanderswands.github.io/js-30-gallery.html)
-* String Reverser: [Code](https://github.com/elewa-student/String-Reverser), [Demo](https://elewa-student.github.io/String-Reverser)
-* Project Planning: [Code](https://github.com/elewa-student/User-Centered-Development), [Demo](https://elewa-student.github.io/User-Centered-Development)
-* Analyzing Modules: [Code](https://elewa-student.github.io/Analyzing-Modules), [Demo](https://github.com/elewa-student/Analyzing-Modules)
-* Exploring Modules: [Code](https://github.com/elewa-student/Exploring-Modules)
-* Analyzing Modules: [Code](https://github.com/elewa-student/Analyzing-Architecture/tree/master)
-* Frontend-Backend: [Code](https://github.com/elewa-student/Frontend-Backend)
-* Vanilla Fullstack: [Code](https://github.com/elewa-student/Vanilla-Fullstack)
+* [my pull-request repo from 11-04](https://github.com/colevandersWands/elewabrussels1)
+* [koen's pull-request-repo, merge accepted](https://github.com/koenvantomme/elewabrussels1)
 
 [TOP](#my-stellar-portfolio)
 
